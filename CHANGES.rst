@@ -1,6 +1,26 @@
 Changelog
 =========
 
+Version 0.2.2 [2020-11-19]
+--------------------------
+
+Bugfixes
+~~~~~~~~
+
+- Fixed notification alert sound being played from multiple windows
+
+Changes
+~~~~~~~
+
+- [dependencies] Upgraded ``openwisp-utils~=0.7.0`` and
+  ``openwisp-users~=0.5.0``
+
+Features
+~~~~~~~~
+
+- Added management command to populate notification preferences
+
+
 Version 0.2.1 [2020-10-18]
 --------------------------
 
